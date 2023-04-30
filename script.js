@@ -1,4 +1,4 @@
-const api_key = "pste your api key here";
+const api_key = "paste your api key here";
 
 const submit = document.querySelector("#submit");
 const reset = document.querySelector("#reset");
